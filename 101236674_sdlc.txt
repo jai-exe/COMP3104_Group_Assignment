@@ -1,0 +1,8 @@
+The effectiveness of DevOps in fostering an agile relationship between IT operations and software development is supported by several factors. By enabling better communications within multiple business units in software development and IT operations departments, DevOps improved the overall production of software by incorporating changes such as:
+
+1. Stable operating environment 
+2. Super-fast delivery
+3. Steadfast collaboration
+4. Time optimization, particularly in fix/maintain phases
+5. Ongoing innovation 
+Technical benefits as such make DevOps the world’s sought-after method in software application development. 
