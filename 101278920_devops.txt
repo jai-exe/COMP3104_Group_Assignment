@@ -1,0 +1,2 @@
+DevOps is the acronym given to the combination of Development and Operations.
+It refers to a collaborative approach to make the Application Development team and the IT Operations team of an organization to seamlessly work with better communication.
