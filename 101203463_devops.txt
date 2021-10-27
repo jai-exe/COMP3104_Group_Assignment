@@ -1,2 +1,4 @@
 DevOps is a culture that encourages collaboration between the development and operations team to bring code into production faster in an automated and repeatable way.
 he word DevOps is a combination of two words operations and development.
+Before DevOps, the development and operation team worked in complete isolation.
+Without using DevOps, team members are spending a large amount of their time in testing, deploying, and designing instead of building the project.
