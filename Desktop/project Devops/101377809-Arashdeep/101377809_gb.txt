@@ -8,3 +8,4 @@ Student Email : https://www.georgebrown.ca/current-students/websites-apps-and-te
 Registeration : https://www.georgebrown.ca/current-students/register-for-your-courses
 Programs : https://www.georgebrown.ca/programs
 Program Comparison : https://www.georgebrown.ca/programs/program-comparison
+Program Availability : https://www.georgebrown.ca/programs/program-availability?year=2021&availability=domestic
