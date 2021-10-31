@@ -1,0 +1,13 @@
+EVALUATION TIMETABLE COMP 3104 DevOps course
+
+Lecture Quizzes              8%
+
+Lab Exercises               16%
+
+Assignment                  10%
+
+Assignment                  16%
+
+Mid-term exam               20%
+ 
+Final exam                  30%
